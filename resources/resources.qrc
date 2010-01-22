@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>ban.png</file>
+    <file>love.png</file>
+    <file>play.png</file>
+    <file>skip.png</file>
+    <file>stop.png</file>
+  </qresource>
+</RCC>
